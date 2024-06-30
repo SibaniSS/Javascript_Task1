@@ -1,3 +1,5 @@
 # Javascript_Task1
 Spider Common Task -3
-The code is a tic-tac-toe game
+A user friendly tic-tac-toe game with 3*3 grid
+
+Live Page:https://sibaniss.github.io/Javascript_Task1/
